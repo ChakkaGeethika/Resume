@@ -1,0 +1,33 @@
+{
+  "profile":[{
+  "name":"geethika",
+  "college":"QIS",
+  "number":"7032326969",
+  "mail":"geeth@gmail.com"
+},
+{
+"name":"chintu",
+"college":"QIS",
+"number":"9949404994",
+"mail":"chintu@gmail.com"
+},
+{
+  "name":"vyshu",
+  "college":"QIS",
+  "number":"5487156894",
+  "mail":"vyshu@gmail.com"
+},
+{
+  "name":"vidh",
+  "college":"QIS",
+  "number":"5469871236",
+  "mail":"vidh@gmail.com"
+},
+{
+  "name":"asma",
+  "college":"QIS",
+  "number":"5698741236",
+  "mail":"asma@gmail.com"
+}
+]
+}

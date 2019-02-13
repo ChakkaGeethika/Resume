@@ -1,0 +1,57 @@
+header {
+   background-color: pink;
+   color: green;
+   font-size: 33px;
+   text-align: center;
+ }
+img{
+  width: 40%;
+}
+.card{
+  background: #dda;
+  width: 20%;
+  border-radius: 2px 2px 2px;
+  box-shadow: 2px 2px 2px black;
+  text-align: center;
+  padding: 1%;
+  margin: 1%;
+}
+  .mainDiv{
+    display: flex;
+    /*justify-content:  space-between;*/
+
+}
+.leftDiv{
+  width: 30%;
+  background-color: #ddd;
+  border: 3px solid #fff000;
+  box-shadow: 3px 3px 3px #000000;
+
+
+}
+.rightDiv {
+  margin: 1%;
+  padding: 1%;
+  background-color: #FFFACD;
+  border: 1px solid #000fff;
+}
+@media screen and (min-width:320px) and (max-width:400px){
+  .mainDiv,.main{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .card,.leftDiv,.rightDiv{
+    width: 90%;
+  }
+}
+@media screen and (min-width:320px) and (max-width:400px){
+  .mainDiv{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .card{
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
